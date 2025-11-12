@@ -14,7 +14,7 @@
 <div align="center">
   <h3>Language and Tools</h3>
 <a href="https://github.com/Sushil-Maurya">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mui,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next.js,tailwindcss,mui,git,github,vscode" />
   </a>
 </div>
 <hr/>
